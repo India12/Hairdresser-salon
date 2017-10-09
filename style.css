@@ -1,0 +1,82 @@
+#facebook {
+  color: #3b5998;
+}
+#twitter {
+  color:  #00b6f1;
+}
+#instagram {
+  color: #c32aa3
+}
+#youtube {
+  color: #ff0000;
+}
+#myCarousel {
+  padding: 0;
+  margin-top: 80px;
+  margin-bottom: 20px;
+}
+.search {
+  margin-right: 5px;
+}
+.container {
+padding-top: 50px;
+}
+.carousel-inner .item{
+   height:500px;
+   background-size:cover;
+   background-position: center center;
+   padding-left: 0;
+   padding-right: 0;
+}
+.row .item {
+  height: 200px;
+  background-size: cover;
+  background-position: center center;
+}
+.barvanje {
+  padding-left: 0;
+}
+.manikura {
+  padding-right: 0;
+}
+
+#narociSe h1, #faq h1, #oNas h1 {
+  margin-bottom: 30px;
+}
+
+.navbar-bottom {
+  margin-top: 70px;
+  background-color: lightgray;
+}
+.navigacija-bottom {
+  text-align: right;
+}
+ul {
+  list-style-type: none;
+}
+.map {
+  padding-bottom: 30px;
+  padding-top: 30px;
+  width: 100%;
+  height: 500px;
+}
+li {
+  padding: 5px;
+}
+ li .decoration {
+   text-decoration: none;
+ }
+ li .decoration:hover {
+   background-color: white;
+   padding: 5px;
+ }
+.logo {
+  padding-top: 10px;
+  width: 70%;
+}
+iframe {
+  border: 0;
+}
+.modalImg {
+  width: 100%;
+}
